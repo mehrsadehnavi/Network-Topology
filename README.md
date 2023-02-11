@@ -1,2 +1,3 @@
 # Network-Topology
-Simple topology using tcl.
+* FTP application between 9 nodes.
+* Link destruction.
